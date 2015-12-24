@@ -57,8 +57,8 @@ install the Jekyll Gem
 Github
 	> git clone https://github.com/ID/ID.github.com	//github files > Desktop
 	> cd ID.github.com
-	> jekyll --serve
-
+	> jekyll --serve	//start http://localhost:4000
+	> git remote set-url
 
 
 JDK 설치
