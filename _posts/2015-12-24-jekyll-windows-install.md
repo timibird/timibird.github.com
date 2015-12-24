@@ -4,14 +4,15 @@ title: Run Jekyll on Windows
 category : coding finder
 tags : [coding, favorite, hobby]
 ---
-**Run Jekyll on Windows**
+**Run Jekyll on Windows**  
 <http://jekyll-windows.juthilo.com/1-ruby-and-devkit>  
-
-install Ruby(Ruby 2.2.3(x64) :  
+  
+   
+1. install Ruby(Ruby 2.2.3(x64) :  
 	Add Ruby executables to your PATH  
 	<http://rubyinstaller.org/downloads/>  
 
-install Ruby DevKit(DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe) :  
+2. install Ruby DevKit(DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe) :  
 	For use with Ruby 2.0 and above (x64 - 64bits only)  
 	<http://rubyinstaller.org/downloads/>  
 
@@ -25,20 +26,20 @@ install Ruby DevKit(DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe) :
 	- C:/Dev/Ruby22-x64  
 	
 
-install the Jekyll Gem  
+3. install the Jekyll Gem  
 	go to new forder for Jekyll Blog  
 	> gem install jekyll  
 
-install a Syntax Highlighter  
+4. install a Syntax Highlighter  
 	> gem install rouge  
 	Then, [_config.yml], set Rouge as syntax highlighter  
 	highlighter: rouge  
 
-install Python(version 2.7.11, Python 3 will not work)  
+5. install Python(version 2.7.11, Python 3 will not work)  
 	Add Python.exe to Path > Entire feature will be installed on local hard drive  
 	<https://www.python.org/downloads/>  
 
-install pip  
+6. install pip  
 	go to new folder for installing pip  
 	download get-pip.py  
 	<https://bootstrap.pypa.io/get-pip.py>  
@@ -47,14 +48,14 @@ install pip
 	> python get-pip.py  
 	or double click get-pip.py  
 
-install the Jekyll Gem  
+7. install the Jekyll Gem  
 	> gem install wdm  
 
 
 
 
 
-Github
+Github  
 //	> git clone https://github.com/ID/ID.github.com	//github files > Desktop  
 //	> cd ID.github.com  
 	> jekyll --serve	//start http://localhost:4000  
