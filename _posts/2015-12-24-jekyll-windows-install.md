@@ -54,13 +54,11 @@ tags : [coding, favorite, hobby]
     > gem install wdm  
 
 
+**Sub-Directories**
+1. If pages are defined in sub-directories, the path to the page will be reflected in the url.
+Example
 
 
-
-
-
-
-8. t
     .
     |-- people
         |-- bob
