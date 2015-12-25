@@ -25,13 +25,13 @@ if ruby dk.rb init has problem, add config.yml
     - C:/Dev/Ruby22-x64  
 
 3. install the Jekyll Gem  
-go to new forder for Jekyll Blog  
+go to new forder for Jekyll Blog
 
     gem install jekyll
 
 4. install a Syntax Highlighter
 
-    gem install rouge  
+    gem install rouge
 
 Then, [_config.yml], set Rouge as syntax highlighter
 
