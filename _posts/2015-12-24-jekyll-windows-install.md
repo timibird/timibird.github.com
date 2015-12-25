@@ -4,6 +4,7 @@ title: Run Jekyll on Windows
 category : coding finder
 tags : [coding, favorite, hobby]
 ---
+
 **Run Jekyll on Windows**  
 <http://jekyll-windows.juthilo.com/1-ruby-and-devkit>  
   
@@ -11,6 +12,7 @@ tags : [coding, favorite, hobby]
 1. install Ruby(Ruby 2.2.3(x64) :  
 	Add Ruby executables to your PATH  
 	<http://rubyinstaller.org/downloads/>      .
+
     |-- people
         |-- bob
             |-- essay.html
