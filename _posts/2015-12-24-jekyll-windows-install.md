@@ -9,8 +9,8 @@ tags : [coding, favorite, hobby]
 <http://jekyll-windows.juthilo.com/1-ruby-and-devkit>  
   
    
-1. install Ruby(Ruby 2.2.3(x64) :  
-Add Ruby executables to your PATH  <http://rubyinstaller.org/downloads/>
+1. If pages are defined in sub-directories, the path to the page will be reflected in the url.
+Example
 
     |-- people
         |-- bob
