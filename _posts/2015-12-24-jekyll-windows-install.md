@@ -16,22 +16,22 @@ tags : [coding, favorite, hobby]
 	For use with Ruby 2.0 and above (x64 - 64bits only)  
 	<http://rubyinstaller.org/downloads/>  
 
-	go to Ruby DevKit Folder  
-
-	> cd C:\RubyDevKit  
-	> ruby dk.rb init  
-	> ruby dk.rb install  
+    go to Ruby DevKit Folder  
+    
+    > cd C:\RubyDevKit  
+    > ruby dk.rb init  
+    > ruby dk.rb install  
 
 	if ruby dk.rb init has problem, add config.yml  
-	- C:/Dev/Ruby22-x64  
+    - C:/Dev/Ruby22-x64  
 	
 
 3. install the Jekyll Gem  
 	go to new forder for Jekyll Blog  
-	> gem install jekyll  
+    > gem install jekyll  
 
 4. install a Syntax Highlighter  
-	> gem install rouge  
+    > gem install rouge  
 	Then, [_config.yml], set Rouge as syntax highlighter  
 	highlighter: rouge  
 
@@ -44,12 +44,12 @@ tags : [coding, favorite, hobby]
 	download get-pip.py  
 	<https://bootstrap.pypa.io/get-pip.py>  
 	Then  
-	> cd C:\pip  
-	> python get-pip.py  
+    > cd C:\pip  
+    > python get-pip.py  
 	or double click get-pip.py  
 
 7. install the Jekyll Gem  
-	> gem install wdm  
+    > gem install wdm  
 
 
 
