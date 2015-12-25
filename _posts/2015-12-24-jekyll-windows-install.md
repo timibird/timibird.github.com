@@ -58,7 +58,7 @@ tags : [coding, favorite, hobby]
 Github  
 //	> git clone https://github.com/ID/ID.github.com	//github files > Desktop  
 //	> cd ID.github.com  
-	> jekyll --serve	//start http://localhost:4000  
+	> jekyll --serve	//start <http://localhost:4000>  
 	> git init		  
 	> git remote add master https://github.com/timibird/timibird.github.com.git  
 	>git add *  
