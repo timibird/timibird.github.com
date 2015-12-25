@@ -5,14 +5,19 @@ category : coding finder
 tags : [coding, favorite, hobby]
 ---
 **Run Jekyll on Windows**  
-
 <http://jekyll-windows.juthilo.com/1-ruby-and-devkit>  
 
 1. install Ruby(Ruby 2.2.3(x64) :  
 Add Ruby executables to your PATH <http://rubyinstaller.org/downloads/>  
 
+    go to Ruby DevKit Folder
+    
+    cd C:\RubyDevKit  
+    ruby dk.rb init  
+    ruby dk.rb install
+
 2. install Ruby DevKit(DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe) :  
-For use with Ruby 2.0 and above (x64 - 64bits only) <http://rubyinstaller.org/downloads/>
+For use with Ruby 2.0 and above (x64 - 64bits only) <http://rubyinstaller.org/downloads/>  
 
     go to Ruby DevKit Folder
     
