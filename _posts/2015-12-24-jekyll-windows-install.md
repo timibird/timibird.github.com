@@ -6,7 +6,8 @@ tags : [coding, favorite, hobby]
 ---
 
 **Run Jekyll on Windows**  
-<http://jekyll-windows.juthilo.com/1-ruby-and-devkit>
+
+<http://jekyll-windows.juthilo.com/1-ruby-and-devkit>  
 1. If pages are defined in sub-directories, the path to the page will be reflected in the url.
 Example
 
