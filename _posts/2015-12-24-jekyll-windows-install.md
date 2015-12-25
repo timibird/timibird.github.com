@@ -45,14 +45,14 @@ tags : [coding, favorite, hobby]
 	<https://bootstrap.pypa.io/get-pip.py>  
 	Then  
     
-    > cd C:\pip  
-    > python get-pip.py  
+    cd C:\pip  
+    python get-pip.py  
 	or double click get-pip.py  
     
 
 7. install the Jekyll Gem  
 
-    > gem install wdm  
+    gem install wdm  
 
 
 **Sub-Directories**  
