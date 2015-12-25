@@ -16,11 +16,11 @@ tags : [coding, favorite, hobby]
 	For use with Ruby 2.0 and above (x64 - 64bits only)  
 	<http://rubyinstaller.org/downloads/>  
 
-    go to Ruby DevKit Folder  
+    go to Ruby DevKit Folder
     
-    cd C:\RubyDevKit  
-    ruby dk.rb init  
-    ruby dk.rb install  
+    cd C:\RubyDevKit
+    ruby dk.rb init
+    ruby dk.rb install
 
 	if ruby dk.rb init has problem, add config.yml  
     - C:/Dev/Ruby22-x64  
