@@ -58,6 +58,7 @@ tags : [coding, favorite, hobby]
 If pages are defined in sub-directories, the path to the page will be reflected in the url.
 Example
 
+
     .
     |-- people
         |-- bob
