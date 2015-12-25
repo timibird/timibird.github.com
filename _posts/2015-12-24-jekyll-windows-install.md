@@ -12,13 +12,13 @@ tags : [coding, favorite, hobby]
 Add Ruby executables to your PATH <http://rubyinstaller.org/downloads/>  
 
 2. install Ruby DevKit(DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe) :  
-For use with Ruby 2.0 and above (x64 - 64bits only) <http://rubyinstaller.org/downloads/>  
+For use with Ruby 2.0 and above (x64 - 64bits only) <http://rubyinstaller.org/downloads/>
 
     go to Ruby DevKit Folder
     
     cd C:\RubyDevKit
     ruby dk.rb init
-    ruby dk.rb install  
+    ruby dk.rb install
 
 if ruby dk.rb init has problem, add config.yml  
 
