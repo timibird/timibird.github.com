@@ -10,7 +10,7 @@ tags : [coding, favorite, hobby]
 
 1. install Ruby(Ruby 2.2.3(x64) :  
 	Add Ruby executables to your PATH  
-	<http://rubyinstaller.org/downloads/>  
+	<http://rubyinstaller.org/downloads/>:
 
     ---
     title :  Hello World
