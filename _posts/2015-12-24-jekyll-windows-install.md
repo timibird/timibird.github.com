@@ -10,7 +10,12 @@ tags : [coding, favorite, hobby]
    
 1. install Ruby(Ruby 2.2.3(x64) :  
 	Add Ruby executables to your PATH  
-	<http://rubyinstaller.org/downloads/>  
+	<http://rubyinstaller.org/downloads/>      .
+    |-- people
+        |-- bob
+            |-- essay.html
+
+
 
 2. install Ruby DevKit(DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe) :  
 	For use with Ruby 2.0 and above (x64 - 64bits only)  
@@ -58,7 +63,6 @@ tags : [coding, favorite, hobby]
 **Sub-Directories**  
 1. If pages are defined in sub-directories, the path to the page will be reflected in the url.
 Example
-
 
     .
     |-- people
