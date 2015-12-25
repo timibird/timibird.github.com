@@ -27,13 +27,15 @@ if ruby dk.rb init has problem, add config.yml
 3. install the Jekyll Gem  
 go to new forder for Jekyll Blog  
 
-    gem install jekyll  
+    gem install jekyll
 
-4. install a Syntax Highlighter  
+4. install a Syntax Highlighter
 
     gem install rouge  
-Then, [_config.yml], set Rouge as syntax highlighter  
-    highlighter: rouge  
+
+Then, [_config.yml], set Rouge as syntax highlighter
+
+    highlighter: rouge
 
 5. install Python(version 2.7.11, Python 3 will not work)  
 	Add Python.exe to Path > Entire feature will be installed on local hard drive  
