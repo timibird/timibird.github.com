@@ -14,7 +14,7 @@ tags : [coding, favorite, hobby]
 
 2. install Ruby DevKit(DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe) :  
 	For use with Ruby 2.0 and above (x64 - 64bits only)  
-	<http://rubyinstaller.org/downloads/>  
+	<http://rubyinstaller.org/downloads/>
 
     go to Ruby DevKit Folder
     
