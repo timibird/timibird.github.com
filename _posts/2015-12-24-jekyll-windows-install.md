@@ -5,10 +5,12 @@ category : coding finder
 tags : [coding, favorite, hobby]
 ---
 **Run Jekyll on Windows**  
-<http://jekyll-windows.juthilo.com/1-ruby-and-devkit>  
+<http://jekyll-windows.juthilo.com/1-ruby-and-devkit>
+
+    - C:/Dev/Ruby22-x64  
 
 1. install Ruby(Ruby 2.2.3(x64) :  
-Add Ruby executables to your PATH <http://rubyinstaller.org/downloads/>  
+Add Ruby executables to your PATH <http://rubyinstaller.org/downloads/>
 
     - C:/Dev/Ruby22-x64  
 
