@@ -16,8 +16,8 @@ For use with Ruby 2.0 and above (x64 - 64bits only) <http://rubyinstaller.org/do
 
     go to Ruby DevKit Folder
     
-    cd C:\RubyDevKit
-    ruby dk.rb init
+    cd C:\RubyDevKit  
+    ruby dk.rb init  
     ruby dk.rb install
 
 if ruby dk.rb init has problem, add config.yml  
@@ -56,10 +56,7 @@ Then, [_config.yml], set Rouge as syntax highlighter
     > gem install wdm  
 
 
-**Sub-Directories**
-If pages are defined in sub-directories, the path to the page will be reflected in the url.
-Example
-
+1. Sub-Directories
 
     .
     |-- people
