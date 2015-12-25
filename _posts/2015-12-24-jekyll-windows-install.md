@@ -4,18 +4,13 @@ title: Run Jekyll on Windows
 category : coding finder
 tags : [coding, favorite, hobby]
 ---
-
 **Run Jekyll on Windows**  
 
 <http://jekyll-windows.juthilo.com/1-ruby-and-devkit>  
-1. If pages are defined in sub-directories, the path to the page will be reflected in the url.
-Example
 
-    |-- people
-        |-- bob
-            |-- essay.html
-
-
+1. install Ruby(Ruby 2.2.3(x64) :  
+	Add Ruby executables to your PATH  
+	<http://rubyinstaller.org/downloads/>  
 
 2. install Ruby DevKit(DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe) :  
 	For use with Ruby 2.0 and above (x64 - 64bits only)  
@@ -50,23 +45,29 @@ Example
 	<https://bootstrap.pypa.io/get-pip.py>  
 	Then  
     
-    cd C:\pip  
-    python get-pip.py  
+    > cd C:\pip  
+    > python get-pip.py  
 	or double click get-pip.py  
     
 
 7. install the Jekyll Gem  
+    > gem install wdm  
 
-    gem install wdm  
 
-
-**Sub-Directories**  
-1. If pages are defined in sub-directories, the path to the page will be reflected in the url.
+**Sub-Directories**
+If pages are defined in sub-directories, the path to the page will be reflected in the url.
 Example
 
+
+    .
     |-- people
         |-- bob
             |-- essay.html
+
+
+
+
+
 
 Github  
 //	> git clone https://github.com/ID/ID.github.com	//github files > Desktop  
