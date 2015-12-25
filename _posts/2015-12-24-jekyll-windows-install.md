@@ -53,16 +53,15 @@ tags : [coding, favorite, hobby]
 7. install the Jekyll Gem  
     > gem install wdm  
 
+
+
+
     .
     |-- people
         |-- bob
             |-- essay.html
 
 
-    ---
-    title :  Hello World
-    categories : [lessons, beginner]
-    ---
 
 
 
