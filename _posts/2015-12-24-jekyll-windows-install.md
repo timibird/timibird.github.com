@@ -56,7 +56,7 @@ Then, [_config.yml], set Rouge as syntax highlighter
     > gem install wdm  
 
 
-1. Sub-Directories
+**Sub-Directories**
 
     .
     |-- people
