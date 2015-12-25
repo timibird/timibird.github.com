@@ -44,9 +44,11 @@ tags : [coding, favorite, hobby]
 	download get-pip.py  
 	<https://bootstrap.pypa.io/get-pip.py>  
 	Then  
+    
     > cd C:\pip  
     > python get-pip.py  
 	or double click get-pip.py  
+    
 
 7. install the Jekyll Gem  
     > gem install wdm  
@@ -57,7 +59,7 @@ tags : [coding, favorite, hobby]
 Github  
 //	> git clone https://github.com/ID/ID.github.com	//github files > Desktop  
 //	> cd ID.github.com  
-    > !jekyll --serve	//start <http://localhost:4000>  
+> jekyll --serve	//start <http://localhost:4000>  
 	> git init		  
 	> git remote add master https://github.com/timibird/timibird.github.com.git  
 	>git add *  
